@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926144164242",
+    "project_id": "happy-53e2d",
+    "storage_bucket": "happy-53e2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926144164242:android:c47101e558f92f1187914b",
+        "android_client_info": {
+          "package_name": "com.happy.shopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnsmrgNxjvPA5dYr9Dk28nv2NTCmyhV7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
